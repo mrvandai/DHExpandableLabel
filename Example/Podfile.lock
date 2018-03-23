@@ -1,0 +1,19 @@
+PODS:
+  - DHExpandableLabel (1.0.0)
+  - SwiftLint (0.25.0)
+
+DEPENDENCIES:
+  - DHExpandableLabel (from `../`)
+  - SwiftLint
+
+EXTERNAL SOURCES:
+  DHExpandableLabel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DHExpandableLabel: 296c89d40e27e3a85bb3ecca71692407b772cffa
+  SwiftLint: e14651157288e9e01d6e1a71db7014fb5744a8ea
+
+PODFILE CHECKSUM: b6e81ce768ad1d47b35ea47d5fe88a339f50cf82
+
+COCOAPODS: 1.4.0
